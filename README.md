@@ -1,6 +1,7 @@
 # Meu Portfolio
 
 Portfolio criado utilizando o react com a build do vite.
+link do deploy: https://portfoliogianlucas.netlify.app/
 
 ## Pré-requisitos
 
