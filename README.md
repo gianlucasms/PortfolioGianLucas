@@ -8,25 +8,25 @@ Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instala
 
 ## Instalação
 
-1. Clone este repositório:
+## 1. Clone este repositório:
+    
+      git clone https://github.com/gianlucasms/PortfolioGianLucas.git .
 
-   ```bash
-   git clone https://github.com/gianlucasms/PortfolioGianLucas.git
-
-2. Navegue até o diretório do projeto:
+## 2. Navegue até o diretório do projeto:
    
-cd PortfolioGianLucas
+      cd PortfolioGianLucas
+   
 
-3. Instale as dependências:
+## 3. Instale as dependências:
 
-npm install ou yarn
+      npm install ou yarn
 
-4. Rodar o projeto.
+## 4. Rodar o projeto.
 
-Certifique-se de estar no diretório do projeto. 
-Então digite -> npm run dev
+      Certifique-se de estar no diretório do projeto. 
+      Então digite -> npm run dev
 
-5. Enfim Abra seu navegador e visite http://localhost:3000.
+## 5. Enfim Abra seu navegador e visite http://localhost:3000.
 
 
 
