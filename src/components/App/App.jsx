@@ -1,11 +1,11 @@
 import { useState } from "react";
-import "./css/App.css";
-import Header from "./components/Header.jsx";
-import Hero from "./components/Hero.jsx";
-import About from "./components/About.jsx";
-import Skills from "./components/Skills.jsx";
-import Projects from "./components/Projects.jsx";
-import Contact from "./components/Contact.jsx";
+import "./App.css";
+import Header from "../Header/Header.jsx";
+import Hero from "../Hero/Hero.jsx";
+import About from "../About/About.jsx";
+import Skills from "../Skills/Skills.jsx";
+import Projects from "../Projects/Projects.jsx";
+import Contact from "../Contact/Contact.jsx";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowUp, faFileDownload } from "@fortawesome/free-solid-svg-icons";
 

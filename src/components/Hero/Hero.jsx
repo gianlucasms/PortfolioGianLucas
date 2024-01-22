@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/Hero.css";
+import "./Hero.css";
 import { Typewriter } from "react-simple-typewriter";
 import { motion } from "framer-motion";
 

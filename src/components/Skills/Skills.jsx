@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/Skills.css";
+import "./Skills.css";
 import {
   Html,
   Css,
@@ -14,7 +14,7 @@ import {
   Csharp,
   Dotnet,
   Jquery,
-} from "../components/SkillsLogo.jsx";
+} from "./SkillsLogo.jsx";
 import { motion } from "framer-motion";
 
 const Skills = () => {
@@ -36,6 +36,7 @@ const Skills = () => {
               ease: [0, 0.71, 0.2, 1.01],
             },
           }}
+          
           viewport={{ once: false }}>
           <p className="first">Focused on</p>
           <div className="logos">

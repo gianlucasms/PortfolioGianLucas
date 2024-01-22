@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import "../css/Contact.css";
+import "./Contact.css";
 
 const Contact = () => {
   const [name, setName] = useState("");
