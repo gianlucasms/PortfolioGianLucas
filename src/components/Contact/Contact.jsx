@@ -53,6 +53,9 @@ const Contact = () => {
       if (response.ok) {
         setSuccessMessage("Mensagem enviada!");
         setShowPopup(true);
+        setName("");
+        setEmail("");
+        setMessage("");
 
         setTimeout(() => {
           setShowPopup(false);

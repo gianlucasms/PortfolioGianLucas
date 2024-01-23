@@ -21,7 +21,7 @@ const Header = () => {
       <div className="header">
         <div className="imgDiv">
         <img
-          src="https://github.com/gianlucasms/PortfolioGianLucas/assets/81451441/1334e3eb-a7a0-4928-affa-ac1c33482f36"
+          src="https://github.com/gianlucasms/PortfolioGianLucas/assets/81451441/018c032e-d18e-4f26-a0ec-f7e32cfc3272"
           alt="logo"
         />
         </div>

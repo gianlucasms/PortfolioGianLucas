@@ -142,8 +142,16 @@
 
 @media (max-width: 1000px) {
   .header {
+    height: 150px;
     flex-direction: column;
-    padding: 20px;
+  }
+
+  .imgDiv{
+    max-height: 100px;
+  }
+
+  .imgDiv img{
+    width: 100%;
   }
 
   .header-container {

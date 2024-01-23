@@ -2,6 +2,7 @@ import React from "react";
 import "./Hero.css";
 import { Typewriter } from "react-simple-typewriter";
 import { motion } from "framer-motion";
+import { faBorderAll } from "@fortawesome/free-solid-svg-icons";
 
 const Hero = () => {
   return (

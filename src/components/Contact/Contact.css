@@ -79,14 +79,17 @@
   top: 46%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 350px;
-  background-color: rgb(0, 255, 76);
+  width: 400px;
+  height: 40px;
+  background-color: rgba(0, 255, 76, 0.897);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
 }
 
 .popup-content {
+  margin-top: 10px;
   text-align: center;
-  color: black;
+  color: rgb(0, 0, 0);
   margin-bottom: 10px;
 }
 

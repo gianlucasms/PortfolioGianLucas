@@ -114,7 +114,6 @@
 @media(width <=1000px) {
   .hero {
     padding: 1rem 25px 3rem 25px;
-
   }
 
   .hero-container {
@@ -125,7 +124,13 @@
     padding: 0;
   }
 
+  .hero-container #perfilPicture{
+    height: 200px;
+    width: 250px;
+  }
+
   .hero img {
+    margin-left: 20px;
     width: 200px;
   }
 
@@ -135,7 +140,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 3rem;
+    padding-top: 2rem;
   }
 
   .hero-title img {
