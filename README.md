@@ -27,7 +27,7 @@ Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instala
       Certifique-se de estar no diretório do projeto. 
       Então digite -> npm run dev
 
-## 5. Enfim Abra seu navegador e visite http://localhost:3000.
+## 5. Enfim Abra seu navegador e visite http://localhost:3000 ou onde seu Local subir.
 
 
 
