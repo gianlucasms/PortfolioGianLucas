@@ -13,7 +13,7 @@ import {
   Bootstrap,
   Csharp,
   Dotnet,
-  Jquery,
+  Jquery
 } from "./SkillsLogo.jsx";
 import { motion } from "framer-motion";
 

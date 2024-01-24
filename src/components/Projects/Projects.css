@@ -104,8 +104,6 @@
     border-radius: 10px 10px 0px 0px;
 }
 
-
-
 .proj-card {
     display: flex;
     flex-direction: column;
@@ -116,7 +114,6 @@
     margin: 0 auto;
     position: relative;
 }
-
 
 .proj-content {
     margin: 0;
@@ -167,6 +164,12 @@
 
 #AppleLP {
     background: url(https://github.com/gianlucasms/PortfolioGianLucas/assets/81451441/91cbce6b-2ea6-4fc9-af28-5c7ab5f39bdb);
+    background-size: cover;
+    background-position: center;
+}
+
+#WebAPI-Market {
+    background: url(https://github.com/gianlucasms/PortfolioGianLucas/assets/81451441/ec3f1a41-9753-4dfc-8167-87030295ae0a);
     background-size: cover;
     background-position: center;
 }

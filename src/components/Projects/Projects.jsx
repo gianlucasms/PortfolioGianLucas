@@ -97,16 +97,21 @@ const Projects = () => {
             name="formulario-react"
             repoName="formulario-react"
             link="https://form-react-vite-gian.netlify.app/"
-            text="Formulário simples criado em react utilizando a lib chakra ui com a build do vite, a fins de estudo."
+            text="Simple form created in react using lib chakra ui with the vite build, for study purposes."
           />
           <Project
             title="AppleLP"
             name="AppleLP"
             repoName="AppleLP"
             link="https://applelp.netlify.app/"
-            text="Landing Page feita em inspiração a Apple RESPONSIVA."
+            text="Landing Page made in Apple inspiration. Responsive!"
           />
-          <Project name="next" repoName="" empty="In progress..." />
+          <Project 
+          title="WebAPI-Market"
+          name="WebAPI-Market"
+          repoName="WebAPI-Market"
+          text="WEB API created for study purposes. It can be used for a supermarket system, with Id, Price, Name of the Product and Product Description."
+          />
           <Project name="next" repoName="" empty="In progress..." />
         </Glider>
       </motion.div>
