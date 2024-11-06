@@ -93,18 +93,25 @@ const Projects = () => {
             },
           ]}>
           <Project
-            title="formulario-react"
-            name="formulario-react"
-            repoName="formulario-react"
-            link="https://form-react-vite-gian.netlify.app/"
-            text="Simple form created in react using lib chakra ui with the vite build, for study purposes."
+            title="NotificationPattern"
+            name="NotificationPattern"
+            repoName="NotificationPattern"
+            link="https://github.com/gianlucasms/NotificationPattern"
+            text="This project implements a Layered Architecture using the Notification Pattern, Entity Framework Core for data persistence with PostgreSQL, and xUnit for unit testing."
           />
           <Project
-            title="AppleLP"
-            name="AppleLP"
-            repoName="AppleLP"
-            link="https://applelp.netlify.app/"
-            text="Landing Page made in Apple inspiration. Responsive!"
+            title="CleanArchitecture"
+            name="CleanArchitecture"
+            repoName="CleanArchitecture"
+            link="https://github.com/gianlucasms/CleanArchitecture"
+            text="It incorporates several development practices, including CQRS (Command Query Responsibility Segregation), Fluent Validation, Mediator Pattern, and Entity Framework Core."
+          />
+          <Project
+            title="DromusLP"
+            name="DromusLP"
+            repoName="DromusLP"
+            link="https://dromosinfra.com.br/"
+            text="The Dromos Infraestrutura website presents a company specialized in large civil engineering projects with a focus on sustainable infrastructure."
           />
           <Project 
           title="WebAPI-Market"
